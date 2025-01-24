@@ -1,4 +1,3 @@
-# Snake-game
 Snake Game 🐍
 This is a classic Snake Game built using React.js. The game features a dynamic grid where the player controls a snake to collect food, growing longer with each bite. The game ends when the snake collides with itself or the walls. The project is styled with CSS and includes additional features such as directional buttons for control and custom images for the snake.
 
@@ -17,6 +16,7 @@ Installation 🖥️
 To set up and run the game locally, follow these steps:
 
 Clone the repository:
+
 bash
 git clone <repository-url>
 Navigate to the project directory:
